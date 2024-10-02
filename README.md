@@ -14,6 +14,5 @@ alimentação, transporte, lazer).
 comportamento financeiro do usuário.
 # Team
 Rafael Oliveira-a042611
-
 Beatriz Lima-a044416  
 Igor Cruz -a043765
