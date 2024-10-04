@@ -13,6 +13,6 @@ alimentação, transporte, lazer).
 - Análise de Despesas: Fornece gráficos e relatórios de gastos, com insights sobre o
 comportamento financeiro do usuário.
 # Team
-Rafael Oliveira-a042611
-Beatriz Lima-a044416  
-Igor Cruz -a043765
+- Rafael Oliveira-a042611
+- Beatriz Lima-a044416  
+- Igor Cruz -a043765
